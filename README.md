@@ -1,5 +1,6 @@
 # 工作原理
-https://github.com/fsolsh/rabbitmq/blob/main/img.png
+![image](https://user-images.githubusercontent.com/33198812/229307215-5566d374-5516-4a69-b487-716025a2e93b.png)
+
 
 # 名词介绍
     Broker:接收和分发消息的应用，RabbitMQ Server就是Message Broker
@@ -12,7 +13,7 @@ https://github.com/fsolsh/rabbitmq/blob/main/img.png
 
 # 交换机类型
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/33198812/229307232-5004a3fe-15e5-47c7-8834-2a8570ccb48f.png)
 
     1.direct Exchange(直接交换机)
     匹配路由键，只有完全匹配消息才会被转发
