@@ -1,5 +1,5 @@
 # 工作原理
-![img.png](img.png)
+https://github.com/fsolsh/rabbitmq/blob/main/img.png
 
 # 名词介绍
     Broker:接收和分发消息的应用，RabbitMQ Server就是Message Broker
